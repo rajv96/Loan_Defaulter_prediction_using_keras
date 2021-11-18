@@ -8,4 +8,12 @@ Given historical data on loans given out with information on whether or not the 
 
 The "loan_status" column contains the label.
 
+## Results
+
+The neural network model achieved an accuracy of 89% on the test data with generalized results. The below graph shows the training and validation loss for the model.
+
+![](images/Capture.PNG)
+
+
+
 
